@@ -1,1 +1,3 @@
-![Image Alt](https://github.com/UnknownObjectV2/Camellia-Music-SFX-Pack/blob/main/sprites/ui/logo.png?raw=true)
+![Image Alt](https://raw.githubusercontent.com/UnknownObjectV2/Camellia-Music-SFX-Pack/refs/heads/main/sprites-override/ui/logo.png)
+Camellia please don't sue me.
+SFX Coming Soon!
